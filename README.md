@@ -1,0 +1,1 @@
+# This repository consists of a Flipkart website clone for educational purposes which had been built using MERN-STACK.
